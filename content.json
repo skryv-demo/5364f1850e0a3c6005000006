@@ -11,7 +11,8 @@
         "Highest relevant educational qualification": {
             "0": {
                 "selectedChoice": "Master degree or equivalent (>=4 years)"
-            }
+            },
+            "Date": "2014-05-13T22:00:00.000Z"
         },
         "Languages": {
             "English": {},
@@ -21,7 +22,9 @@
                 "0": []
             }
         },
-        "Professional experience": {},
+        "Professional experience": {
+            "Date IT career started": "2014-05-19T22:00:00.000Z"
+        },
         "Date of birth": "2014-05-13T22:00:00.000Z"
     },
     "Training Page": {
