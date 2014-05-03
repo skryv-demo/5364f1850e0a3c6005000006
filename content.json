@@ -1,6 +1,8 @@
 {
     "Front Page": {
-        "Contract information": {},
+        "Contract information": {
+            "Date of recruitment": "2014-05-14T22:00:00.000Z"
+        },
         "Profile for which employee is entered": {
             "0": {
                 "selectedChoices": {}
@@ -19,7 +21,8 @@
                 "0": []
             }
         },
-        "Professional experience": {}
+        "Professional experience": {},
+        "Date of birth": "2014-05-13T22:00:00.000Z"
     },
     "Training Page": {
         "Training": {
