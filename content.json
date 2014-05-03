@@ -1,1 +1,39 @@
-{}
+{
+    "Front Page": {
+        "Contract information": {},
+        "Profile for which employee is entered": {
+            "0": {
+                "selectedChoices": {}
+            }
+        },
+        "Highest relevant educational qualification": {
+            "0": {
+                "selectedChoice": "Master degree or equivalent (>=4 years)"
+            }
+        },
+        "Languages": {
+            "English": {},
+            "French": {},
+            "German": {},
+            "Other(s)": {
+                "0": []
+            }
+        },
+        "Professional experience": {}
+    },
+    "Training Page": {
+        "Training": {
+            "0": []
+        }
+    },
+    "Software Expertise Page": {
+        "Software expertise": {
+            "0": []
+        }
+    },
+    "Professional Experience Page": {
+        "Project experience": {
+            "0": []
+        }
+    }
+}
